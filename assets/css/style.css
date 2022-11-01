@@ -347,6 +347,10 @@ body {
     color: #FFFFFF;
 }
 
+.contact .box-contact a{
+    text-decoration: none;
+}
+
 .contact .box-contact .img-contact button {
     padding: 16px 24px;
     width: 215.93px;
