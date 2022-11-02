@@ -210,8 +210,8 @@ filter: brightness(70%);
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
+    font-size: 40px;
+    line-height: 50px;
     color: #FFD369;
 }
 
@@ -488,7 +488,7 @@ footer .box-footer .menu-footer li a:hover {
     }
 
     .about .box-about .desc-about h3:nth-child(1) {
-        font-size: 1.7vw;
+        font-size: 4vw;
     }
 
     .about .box-about .desc-about h3:nth-child(2) {
@@ -666,7 +666,7 @@ footer .box-footer .menu-footer li a:hover {
     }
 
     .about .box-about .desc-about h3:nth-child(1) {
-        font-size: 3vw;
+        font-size: 5vw;
         line-height: 60px;
     }
 
@@ -848,7 +848,7 @@ footer .box-footer .menu-footer li a:hover {
     }
 
     .about .box-about .desc-about h3:nth-child(1) {
-        font-size: 3vw;
+        font-size: 5vw;
         line-height: 30px;
     }
 
